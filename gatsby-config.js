@@ -7,14 +7,14 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.js
-    siteTitle: `Cara`,
-    siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
-    siteHeadline: `Cara - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://cara.lekoarts.de`,
-    siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+    siteTitle: `Developer Web JavaScript`,
+    siteTitleAlt: `Vanessa Dev Portfolio`,
+    siteHeadline: `Web Site made with Gatsby.`,
+    siteUrl: `https://nessajs.com.br/`,
+    siteDescription: `Developer Web JavaScript, passionate about Front-end. Skills: HTML, CSS, LESS, JavaScript - ES6+,BootStrap, React, Jquery.`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
-    author: `@lekoarts_de`,
+    author: `Vanessa-dev`,
   },
   plugins: [
     {
